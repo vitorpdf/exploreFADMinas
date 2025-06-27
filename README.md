@@ -1,4 +1,5 @@
-🏛️ Portal de Museus FADMINAS ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+🏛️ Portal de Museus FADMINAS 
+![Status][def]
 
 ## 📌 Descrição
 
@@ -39,11 +40,11 @@ Para manter a organização e o histórico do projeto claros, seguimos as seguin
 
 ## 💻 Tecnologias Utilizadas
 
-**Frontend:** HTML5, CSS3, JavaScript.
-**Backend:** Node.js v24.0.2, TypeScript v5.8.3.
-**Banco de Dados:** MySQL v8.0. 
-**Servidor de DB Local**  XAMPP. 
-**Editor de Código**  Visual Studio Code. 
+- **Frontend:** HTML5, CSS3, JavaScript.
+- **Backend:** Node.js v24.0.2, TypeScript v5.8.3.
+- **Banco de Dados:** MySQL v8.0. 
+- **Servidor de DB Local**  XAMPP. 
+- **Editor de Código**  Visual Studio Code. 
 
 ### Estrutura de diretório
 
@@ -53,3 +54,5 @@ Para manter a organização e o histórico do projeto claros, seguimos as seguin
 ### 👥 Equipe de Desenvolvimento
 
 - **Vitor Gabriel Firmino**
+
+[def]: https://img.shields.io/badge/status-em%20desenvolvimento-yellow
